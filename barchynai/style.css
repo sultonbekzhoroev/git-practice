@@ -1,6 +1,10 @@
-h1{
+h1, h2{
     width:60%;
     text-align: center;
     margin: auto;
     color: green;
+}
+img{
+    width: 70%;
+    margin: auto;
 }
